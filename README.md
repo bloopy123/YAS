@@ -426,7 +426,7 @@ YAS - Yakut Association of Students (Якутское Объединение С�
                             <li><a href="#">Контакты</a></li>
                         </ul>
                         <div class="copyright-text"><p>
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> Все права защищены | Сайт сделан командой Delicious</a></p></div>
+  			Copyright &copy;<script>document.write(new Date().getFullYear());</script> Все права защищены | Сайт сделан командой Delicious</a></p></div>
                         <div class="ft-social">
                             <a href="#"><i class="fa fa-facebook"></i></a>
                             <a href="#"><i class="fa fa-twitter"></i></a>
